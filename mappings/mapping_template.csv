@@ -1,5 +1,5 @@
 # curie_map:
-#   panet: https://w3id.org/PaN/PaNET/1.3.0/PaNET#
+#   panet: https://w3id.org/PaN/PaNET/1.3.0#
 #   panetsource: https://w3id.org/PaN/PaNET/1.3.0/
 #   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
 #   rdfs: http://www.w3.org/2000/01/rdf-schema#
@@ -13,7 +13,8 @@
 # mapping_set_description: Manually curated alignment of the PaNET ontology with <your semantic artifact>.
 #   Intended to be used for ontological analysis.
 # mapping_set_id: https://github.com/pan-ontologies/PaNET/blob/master/mappings/mapping_??.csv
-# mapping_set_version: <date of last edit>
+# mapping_set_version: <version>
+# mapping_set_date: <date of last edit>
 # object_source: obsource:<your custom >
 # subject_source: panetsource:PaNET.owl
 # 
